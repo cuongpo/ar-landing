@@ -43,20 +43,13 @@
       Footer,
       CallToAction,
       BlogSection,
-      AgencySection,
       BrandsSection,
       ParallaxSection,
-      TeamSection,
-      TrustedSection,
-      FactSection,
       GallerySection,
       WedoSection,
-      LiveSection,
-      About,
       Services,
       Banner,
       Nav
-
     }
   }
 </script>
