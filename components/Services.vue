@@ -1,14 +1,14 @@
 <template>
-  <section class="services-section">
+  <section class="services-section" id="services-section">
     <div class="auto-container">
       <div class="row clearfix">
         <!--Title Block-->
         <div class="title-block col-xl-6 col-lg-12 col-md-12 col-sm-12">
           <div class="inner">
             <div class="sec-title">
-              <h2>We Shape the Perfect <br>Solutions<span class="dot">.</span></h2>
-              <div class="lower-text">We are committed to providing our customers with exceptional
-                service while offering our employees the best training.</div>
+              <h2>We Shape the Perfect <br>AR Solutions<span class="dot">.</span></h2>
+              <div class="lower-text">Use Brolab AR’s powerful platform to deliver augmented
+reality that works on the web — easy-peasy!.</div>
             </div>
           </div>
         </div>
@@ -18,7 +18,7 @@
           <div class="inner-box">
             <div class="bottom-curve"></div>
             <div class="icon-box"><span class="flaticon-responsive"></span></div>
-            <h6><nuxt-link to="/web-development">Website <br>Development</nuxt-link></h6>
+            <h6><a href="/web-development">AR Web <br>Development</a></h6>
           </div>
         </div>
         <!--Service Block-->
@@ -27,7 +27,7 @@
           <div class="inner-box">
             <div class="bottom-curve"></div>
             <div class="icon-box"><span class="flaticon-computer"></span></div>
-            <h6><nuxt-link to="/graphic-designing">graphic <br>designing</nuxt-link></h6>
+            <h6><a href="">3D Model <br>designing</a></h6>
           </div>
         </div>
         <!--Service Block-->
@@ -36,7 +36,7 @@
           <div class="inner-box">
             <div class="bottom-curve"></div>
             <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-            <h6><nuxt-link to="/digital-marketing">digital <br>marketing</nuxt-link></h6>
+            <h6><a href="/digital-marketing">AR Game <br>marketing</a></h6>
           </div>
         </div>
         <!--Service Block-->
@@ -45,7 +45,7 @@
           <div class="inner-box">
             <div class="bottom-curve"></div>
             <div class="icon-box"><span class="flaticon-development"></span></div>
-            <h6><nuxt-link to="/seo">seo & content <br>writing</nuxt-link></h6>
+            <h6><a href="">AR <br>location-based</a></h6>
           </div>
         </div>
         <!--Service Block-->
@@ -54,7 +54,7 @@
           <div class="inner-box">
             <div class="bottom-curve"></div>
             <div class="icon-box"><span class="flaticon-app-development"></span></div>
-            <h6><nuxt-link to="/app-development">App <br>Development</nuxt-link></h6>
+            <h6><a href="">AR <br>Packaging</a></h6>
           </div>
         </div>
         <!--Service Block-->
@@ -63,7 +63,7 @@
           <div class="inner-box">
             <div class="bottom-curve"></div>
             <div class="icon-box"><span class="flaticon-ui"></span></div>
-            <h6><nuxt-link to="/ui-designing">Ui/UX <br>designing</nuxt-link></h6>
+            <h6><a href="">Metaverse <br>Solution</a></h6>
           </div>
         </div>
       </div>

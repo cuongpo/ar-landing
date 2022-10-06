@@ -38,10 +38,10 @@
                   <div class="sub-title">welcome to Brolab AR</div>
                   <h1>Create your<br>AR Campaign.</h1>
                   <div class="link-box">
-                    <nuxt-link class="theme-btn btn-style-one" to="/about">
+                    <a class="theme-btn btn-style-one" href="#services-section">
                       <i class="btn-curve"></i>
                       <span class="btn-title">Discover More</span>
-                    </nuxt-link>
+                    </a>
                   </div>
                 </div>
               </div>
@@ -60,12 +60,12 @@
               <div class="content">
                 <div class="inner">
                   <div class="sub-title">welcome to Brolab AR</div>
-                  <h1>Suprise your<br>Clients</h1>
+                  <h1>Surprise your<br>Clients</h1>
                   <div class="link-box">
-                    <nuxt-link class="theme-btn btn-style-one" to="/about">
+                    <a class="theme-btn btn-style-one" href="#services-section">
                       <i class="btn-curve"></i>
                       <span class="btn-title">Discover More</span>
-                    </nuxt-link>
+                    </a>
                   </div>
                 </div>
               </div>

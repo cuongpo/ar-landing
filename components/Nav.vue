@@ -21,47 +21,15 @@
             <div class="collapse navbar-collapse show clearfix">
               <ul class="navigation clearfix">
                 <li class="current dropdown"><a href="/">Home</a>
-                  <ul>
-                    <li><nuxt-link to="/">Home Style 01</nuxt-link></li>
-                    <li><nuxt-link to="/index-2">Home Style 02</nuxt-link></li>
-                    <li><nuxt-link to="/index-3">Home Style 03</nuxt-link></li>
-                  </ul>
                 </li>
-                <li><nuxt-link to="/about">About Us</nuxt-link></li>
-                <li class="dropdown"><a href="/team">Pages</a>
-                  <ul>
-                    <li><nuxt-link to="/team">Our Team</nuxt-link></li>
-                    <li><nuxt-link to="/testimonials">Testimonials</nuxt-link></li>
-                    <li><nuxt-link to="/faqs">FAQs</nuxt-link></li>
-                    <li><nuxt-link to="/not-found">404 Page</nuxt-link></li>
-                  </ul>
+                <li><a href="#services-section">Services</a></li>
+                <li class="dropdown"><a href="#benefit-section">Benefits</a>
                 </li>
-                <li class="dropdown"><nuxt-link to="/services">Services</nuxt-link>
-                  <ul>
-                    <li><nuxt-link to="/services">All Services</nuxt-link></li>
-                    <li><nuxt-link to="/web-development">Website Development</nuxt-link></li>
-                    <li><nuxt-link to="/graphic-designing">Graphic Designing</nuxt-link></li>
-                    <li><nuxt-link to="/digital-marketing">Digital Marketing</nuxt-link></li>
-                    <li><nuxt-link to="/seo">SEO & Content Writting</nuxt-link></li>
-                    <li><nuxt-link to="/app-development">App Development</nuxt-link></li>
-                    <li><nuxt-link to="/ui-designing">UI/UX Designing</nuxt-link></li>
-                  </ul>
+                <li class="dropdown"><a href="#showcases">Showcases</a>
                 </li>
-                <li class="dropdown"><nuxt-link to="/portfolio">Portfolio</nuxt-link>
-                  <ul>
-                    <li><nuxt-link to="/portfolio">Portfolio</nuxt-link></li>
-                    <li><nuxt-link to="/portfolio-single">Portfolio Single 01</nuxt-link></li>
-                    <li><nuxt-link to="/portfolio-single-2">Portfolio Single 02</nuxt-link></li>
-                  </ul>
+                <li class="dropdown"><a href="#blog-section">Blog</a>
                 </li>
-                <li class="dropdown"><nuxt-link to="/blog-grid">Blog</nuxt-link>
-                  <ul>
-                    <li><nuxt-link to="/blog">Blog Sidebar</nuxt-link></li>
-                    <li><nuxt-link to="/blog-grid">Blog Grid View</nuxt-link></li>
-                    <li><nuxt-link to="/blog-single">Blog Single</nuxt-link></li>
-                  </ul>
-                </li>
-                <li><nuxt-link to="/contact">Contact</nuxt-link></li>
+                <li><a href="#footer">Contact</a></li>
               </ul>
             </div>
           </nav>
@@ -69,13 +37,10 @@
 
         <div class="other-links clearfix">
           <div class="link-box">
-            <div class="call-us">
-              <a class="link" href="tel:6668880000">
-                <span class="icon"></span>
-                <span class="sub-text">Call Anytime</span>
-                <span class="number">666 888 0000</span>
-              </a>
-            </div>
+            <a class="theme-btn btn-style-one"  href="https://ar.brolab.io" target="_blank">
+              <i class="btn-curve"></i>
+              <span class="btn-demo">Try Our Demo</span>
+            </a>
           </div>
         </div>
 

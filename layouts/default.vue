@@ -12,7 +12,7 @@
     },
     head(){
       return {
-        title: "Linoor - Vue Nuxt Digital Agency Services Template"
+        title: "Brolab AR | AR Marketing Platform"
       }
     },
     mounted(){

@@ -1,6 +1,6 @@
 <template>
   <div>
-  <footer class="main-footer">
+  <footer class="main-footer" id="footer">
     <div class="auto-container">
       <!--Widgets Section-->
       <div class="widgets-section">
@@ -11,10 +11,9 @@
             <div class="footer-widget logo-widget">
               <div class="widget-content">
                 <div class="logo">
-                  <nuxt-link to="/"><img id="fLogo" src="/images/footer-logo.png" alt="" /></nuxt-link>
+                  <nuxt-link to="/"><img id="fLogo" src="/images/logo.png" alt="" /></nuxt-link>
                 </div>
-                <div class="text">Welcome to our web design agency. Lorem ipsum simply free text
-                  dolor sited amet cons cing elit.</div>
+                <div class="text">Brolab AR helps brands and creative agencies to build, publish, analyze, and scale engaging marketing campaigns across their complete customer journey.</div>
                 <ul class="social-links clearfix">
                   <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                   <li><a href="#"><span class="fab fa-twitter"></span></a></li>
@@ -59,12 +58,10 @@
               <div class="widget-content">
                 <h6>Contact</h6>
                 <ul class="contact-info">
-                  <li class="address"><span class="icon flaticon-pin-1"></span> 66 Broklyn Street,
-                    New York <br>United States of America</li>
-                  <li><span class="icon flaticon-call"></span><a href="tel:666888000">666 888
-                    000</a></li>
+                  <li class="address"><span class="icon flaticon-pin-1"></span> 526 Nguyen Trai, Thanh Xuan, <br>Ha Noi</li>
+                  <li><span class="icon flaticon-call"></span><a href="tel:0988499006">0988 499 006</a></li>
                   <li><span class="icon flaticon-email-2"></span><a
-                    href="mailto:needhelp@linoor.com">needhelp@linoor.com</a></li>
+                    href="mailto:marketing@brolab.io">marketing@brolab.io</a></li>
                 </ul>
               </div>
             </div>
@@ -100,7 +97,7 @@
     <div class="footer-bottom">
       <div class="auto-container">
         <div class="inner clearfix">
-          <div class="copyright">&copy; copyright 2020 by Layerdrops.com</div>
+          <div class="copyright">&copy; copyright 2022 by brolab.io</div>
         </div>
       </div>
     </div>

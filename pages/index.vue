@@ -37,7 +37,7 @@
   import BlogSection from "../components/BlogSection";
   import CallToAction from "../components/CallToAction";
   import Footer from "../components/Footer";
-
+  
   export default {
     components: {
       Footer,

@@ -6,10 +6,10 @@
         <div class="shape-2 wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms"></div>
         <h2>Let's Get Your Project <br>Started!</h2>
         <div class="link-box">
-          <nuxt-link class="theme-btn btn-style-two" to="/about">
+          <a class="theme-btn btn-style-two" href="https://m.me/100154619553115" target="_blank">
             <i class="btn-curve"></i>
             <span class="btn-title">Contact with us</span>
-          </nuxt-link>
+          </a>
         </div>
       </div>
     </div>

@@ -1,26 +1,19 @@
 <template>
-  <section class="we-do-section">
+  <section class="we-do-section" id="benefit-section">
     <div class="auto-container">
       <div class="row clearfix">
         <!--Left Column-->
         <div class="left-col col-lg-6 col-md-12 col-sm-12">
           <div class="inner">
             <div class="sec-title">
-              <h2>We do more then ever <br>platforms <span class="dot">.</span></h2>
+              <h2>The power of augmented reality<span class="dot">.</span></h2>
             </div>
-            <div class="featured-block clearfix">
-              <div class="image"><img src="/images/resource/featured-image-4.jpg" alt=""></div>
-              <div class="text">There are many variatns of passages the majority have suffered
-                alteration in some foor randomised words believable.</div>
-            </div>
-            <div class="progress-box">
-              <div class="bar-title">Digital marketing</div>
-              <div class="bar">
-                <div class="progress-bar">
-                  <span class="progress-bar-fill" style="width: 70%;"></span>
-                </div>
-              </div>
-            </div>
+           
+              
+              <div class="text">Brolab AR helps brands and creative agencies to build, publish, analyze, and scale engaging marketing campaigns
+across their complete customer journey. It’s as easy as that!.</div>
+            
+            
           </div>
         </div>
 
@@ -30,21 +23,21 @@
             <div class="faq-box">
               <div class="accordion-container-one">
                 <div class="ac">
-                  <h2 class="ac-q accordion__title-text" tabIndex="0">We help to create visual strategies</h2>
+                  <h2 class="ac-q accordion__title-text" tabIndex="0">More engaging marketing campaigns</h2>
                   <div class="ac-a accordion__content">
-                    <p class="accordion__content-desc">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</p>
+                    <p class="accordion__content-desc">Create more powerful, immersive and memorable marketing campaigns that blow minds, light-up faces and get shared the world over.</p>
                   </div>
                 </div>
                 <div class="ac">
-                  <h2 class="ac-q accordion__title-text" tabIndex="0">Motion Graphics & Animations</h2>
+                  <h2 class="ac-q accordion__title-text" tabIndex="0">Boost sales and give content an extra gear</h2>
                   <div class="ac-a accordion__content">
-                    <p class="accordion__content-desc">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</p>
+                    <p class="accordion__content-desc">Make your off- and online sales more effective, thanks to immersive AR experiences that take content creation to the next level.</p>
                   </div>
                 </div>
                 <div class="ac">
-                  <h2 class="ac-q accordion__title-text" tabIndex="0">We help to achieve mutual goals</h2>
+                  <h2 class="ac-q accordion__title-text" tabIndex="0">Close the gap between off- and online</h2>
                   <div class="ac-a accordion__content">
-                    <p class="accordion__content-desc">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</p>
+                    <p class="accordion__content-desc">Finally, get ROI and metrics even from offline communication! Track your audience and get ready to reach for the sky.</p>
                   </div>
                 </div>
 

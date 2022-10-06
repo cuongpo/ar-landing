@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <section class="we-work-section">
+    <section class="we-work-section" id="benefit-section">
       <div class="auto-container">
         <div class="sec-title centered">
           <h2>We Work With industries <span class="dot">.</span></h2>

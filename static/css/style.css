@@ -279,6 +279,16 @@ figure {
   z-index: 1;
 }
 
+.btn-style-one .btn-demo {
+  position: relative;
+  display: block;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  padding: 19px 50px 16px;
+  z-index: 1;
+}
+
 .btn-style-one:hover {
   background: var(--thm-base);
   color: #ffffff;
@@ -565,7 +575,7 @@ img {
 .main-header .other-links .link-box {
   position: relative;
   float: left;
-  padding: 34px 0px;
+  padding: 18px 0px;
 }
 
 .main-header .other-links .link-box .link {
